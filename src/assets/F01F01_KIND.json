@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "F01F01_KIND",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "kind": "정형외과" }, "geometry": { "type": "Point", "coordinates": [ 126.9623807016402, 37.391556796801531 ] } },
+{ "type": "Feature", "properties": { "id": 2, "kind": "류마티스내과" }, "geometry": { "type": "Point", "coordinates": [ 126.962291477404122, 37.391705804861722 ] } },
+{ "type": "Feature", "properties": { "id": 3, "kind": "척추센터" }, "geometry": { "type": "Point", "coordinates": [ 126.962323339913397, 37.391659241118688 ] } },
+{ "type": "Feature", "properties": { "id": 4, "kind": "영상의학과" }, "geometry": { "type": "Point", "coordinates": [ 126.96183739526488, 37.391395731055496 ] } },
+{ "type": "Feature", "properties": { "id": 5, "kind": "권역응급의료센터" }, "geometry": { "type": "Point", "coordinates": [ 126.961579328101493, 37.391730132771762 ] } },
+{ "type": "Feature", "properties": { "id": 6, "kind": "소아응급구역" }, "geometry": { "type": "Point", "coordinates": [ 126.961803175799432, 37.39190379890907 ] } },
+{ "type": "Feature", "properties": { "id": 7, "kind": "외래수술실" }, "geometry": { "type": "Point", "coordinates": [ 126.962407290917312, 37.391443334299488 ] } }
+]
+}

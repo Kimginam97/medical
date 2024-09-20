@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "F06F06_KIND",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "kind": "6병동" }, "geometry": { "type": "Point", "coordinates": [ 126.962082185935841, 37.391526160319152 ] } }
+]
+}

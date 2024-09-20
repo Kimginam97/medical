@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "F02F02_KIND",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "kind": "소아청소년과" }, "geometry": { "type": "Point", "coordinates": [ 126.962051124813598, 37.392017849183986 ] } },
+{ "type": "Feature", "properties": { "id": 2, "kind": "피부과" }, "geometry": { "type": "Point", "coordinates": [ 126.962103067047153, 37.391920269680021 ] } },
+{ "type": "Feature", "properties": { "id": 3, "kind": "산부인과 / 가정의학과" }, "geometry": { "type": "Point", "coordinates": [ 126.962163166133564, 37.391817960826586 ] } },
+{ "type": "Feature", "properties": { "id": 4, "kind": "유방/내분비암센터" }, "geometry": { "type": "Point", "coordinates": [ 126.962256733898954, 37.391682834826611 ] } },
+{ "type": "Feature", "properties": { "id": 5, "kind": "안과" }, "geometry": { "type": "Point", "coordinates": [ 126.962319803218705, 37.391569879982633 ] } },
+{ "type": "Feature", "properties": { "id": 6, "kind": "이비인후과" }, "geometry": { "type": "Point", "coordinates": [ 126.962373233356544, 37.391460470987752 ] } },
+{ "type": "Feature", "properties": { "id": 7, "kind": "혈액종양내과2" }, "geometry": { "type": "Point", "coordinates": [ 126.962066255846054, 37.391597599040324 ] } },
+{ "type": "Feature", "properties": { "id": 8, "kind": "성형외과" }, "geometry": { "type": "Point", "coordinates": [ 126.961946189155682, 37.391541960222241 ] } },
+{ "type": "Feature", "properties": { "id": 9, "kind": "심장검사실" }, "geometry": { "type": "Point", "coordinates": [ 126.961883270838641, 37.391355619996943 ] } },
+{ "type": "Feature", "properties": { "id": 10, "kind": "비뇨의학과" }, "geometry": { "type": "Point", "coordinates": [ 126.961806472734253, 37.391495778807815 ] } },
+{ "type": "Feature", "properties": { "id": 11, "kind": "간/소화기센터" }, "geometry": { "type": "Point", "coordinates": [ 126.961576476954846, 37.391858288844503 ] } },
+{ "type": "Feature", "properties": { "id": 12, "kind": "뇌신경센터" }, "geometry": { "type": "Point", "coordinates": [ 126.961346750472785, 37.39169200475056 ] } },
+{ "type": "Feature", "properties": { "id": 13, "kind": "외과/혈액종양내과1" }, "geometry": { "type": "Point", "coordinates": [ 126.961657364905903, 37.391695063333323 ] } },
+{ "type": "Feature", "properties": { "id": 14, "kind": "심장혈관 흉부외과" }, "geometry": { "type": "Point", "coordinates": [ 126.961669979508969, 37.391671407746202 ] } },
+{ "type": "Feature", "properties": { "id": 15, "kind": "호흡기/알레르기내과" }, "geometry": { "type": "Point", "coordinates": [ 126.96161387725266, 37.39120351942244 ] } },
+{ "type": "Feature", "properties": { "id": 16, "kind": "신장/감염내과" }, "geometry": { "type": "Point", "coordinates": [ 126.961563413600572, 37.39130878859936 ] } },
+{ "type": "Feature", "properties": { "id": 17, "kind": "내분비내과" }, "geometry": { "type": "Point", "coordinates": [ 126.961505538078598, 37.391411097880578 ] } }
+]
+}

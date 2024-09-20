@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "F03F03_KIND",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "kind": "내과/외과중환자실" }, "geometry": { "type": "Point", "coordinates": [ 126.962321940554375, 37.39157375866219 ] } },
+{ "type": "Feature", "properties": { "id": 2, "kind": "뇌졸중/심혈관계중환자실" }, "geometry": { "type": "Point", "coordinates": [ 126.962186045702296, 37.391784341924613 ] } },
+{ "type": "Feature", "properties": { "id": 3, "kind": "진단검사의학과" }, "geometry": { "type": "Point", "coordinates": [ 126.962094805867878, 37.391944176812586 ] } },
+{ "type": "Feature", "properties": { "id": 4, "kind": "신생아중환자실" }, "geometry": { "type": "Point", "coordinates": [ 126.961786206709846, 37.391916802098429 ] } },
+{ "type": "Feature", "properties": { "id": 5, "kind": "신생아실" }, "geometry": { "type": "Point", "coordinates": [ 126.961679871700511, 37.391881915799075 ] } },
+{ "type": "Feature", "properties": { "id": 6, "kind": "분만실" }, "geometry": { "type": "Point", "coordinates": [ 126.961572596881183, 37.391828087854478 ] } },
+{ "type": "Feature", "properties": { "id": 7, "kind": "인터벤션센터" }, "geometry": { "type": "Point", "coordinates": [ 126.961653370746077, 37.39171067836083 ] } },
+{ "type": "Feature", "properties": { "id": 8, "kind": "심혈관조영실" }, "geometry": { "type": "Point", "coordinates": [ 126.961478714369079, 37.391582578780501 ] } },
+{ "type": "Feature", "properties": { "id": 9, "kind": "중앙공급실" }, "geometry": { "type": "Point", "coordinates": [ 126.961991465919581, 37.391619111890634 ] } },
+{ "type": "Feature", "properties": { "id": 10, "kind": "수술실" }, "geometry": { "type": "Point", "coordinates": [ 126.961750401448299, 37.391368252075992 ] } }
+]
+}
